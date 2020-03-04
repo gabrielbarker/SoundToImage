@@ -1,0 +1,24 @@
+{
+  "name": "soundtoimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielbarker/SoundToImage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielbarker/SoundToImage/issues"
+  },
+  "homepage": "https://github.com/gabrielbarker/SoundToImage#readme",
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "typescript": "^3.8.3",
+    "waveform-data": "^3.3.1"
+  }
+}
