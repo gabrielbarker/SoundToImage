@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && node out/index"
+    "start": "tsc && node out/index",
+    "bundle": "webpack-cli"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,8 @@
   "devDependencies": {
     "@types/node": "^13.7.7",
     "typescript": "^3.8.3",
-    "waveform-data": "^3.3.1"
+    "waveform-data": "^3.3.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   }
 }
