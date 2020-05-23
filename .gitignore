@@ -105,3 +105,6 @@ dist
 
 # Transpiled TS Files
 out/
+
+# Bundled Files
+build/
