@@ -1,4 +1,4 @@
-import AudioConverter from "./src/AudioConverter";
+import AudioConverter from "./AudioConverter";
 import HTMLWriter from "./HTMLWriter";
 import HTMLImageBuilder from "./HTMLImageBuilder";
 
